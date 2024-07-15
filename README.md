@@ -10,7 +10,7 @@ A simple Python script to generate a 24-character password. This script combines
 
 ## 📋 Requirements
 
-- 🐍 Python 3.x
+- 🐍 Python 3
 
 ## 🚀 Usage
 
