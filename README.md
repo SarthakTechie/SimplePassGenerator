@@ -24,7 +24,7 @@ A simple Python script to generate a 24-character password. This script combines
 2. Run the script:
 
     ```sh
-    python3 password_generator.py
+    password_generator.py
     ```
 
 ## 📌 Example Output
