@@ -2,6 +2,8 @@
 
 A simple Python script to generate a 24-character password. This script combines letters, digits, and punctuation to create strong and secure passwords.
 
+![Example](https://github.com/SarthakTechie/SimplePassGenerator/preview.png)
+
 ## ✨ Features
 
 - 🔒 Generates a random 24-character password
